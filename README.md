@@ -1,4 +1,4 @@
-# 💰 Income Tax Management System
+#  Income Tax Management System
 
 ### Web-Based Income Tax Management Platform
 
